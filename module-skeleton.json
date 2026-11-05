@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-negotiated-quotes-flutter",
+  "capabilityKey": "planned:ecommerce:negotiated-quotes",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_negotiated_quotes_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/negotiated-quotes.md",
+  "presentationPlan": "projects/ecommerce/flutter/negotiated-quotes.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
